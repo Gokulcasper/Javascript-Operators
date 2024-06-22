@@ -39,13 +39,13 @@
 // Comparision Operator
 let x = 5;
 //relational operator
-// console.log(x < 5);
-// console.log(x > 5);
+console.log(x < 5);
+console.log(x > 5);
 //Equality Operator
-// console.log(x == 5);
-// console.log(x !=5);
+console.log(x == 5);
+console.log(x !=5);
 //String comparations
-// console.log('gokul'< 'gopal')
+console.log('gokul'< 'gopal')
 //comparation of diffe
 console.log('1'< 5);
 console.log(true ==0);
