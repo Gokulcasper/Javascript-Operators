@@ -37,15 +37,36 @@
 // console.log(number1);
 
 // Comparision Operator
-let x = 5;
+// let x = 5;
 //relational operator
-console.log(x < 5);
-console.log(x > 5);
+// console.log(x < 5);
+// console.log(x > 5);
 //Equality Operator
-console.log(x == 5);
-console.log(x !=5);
+// console.log(x == 5);
+// console.log(x !=5);
 //String comparations
-console.log('gokul'< 'gopal')
-//comparation of diffe
-console.log('1'< 5);
-console.log(true ==0);
+// console.log('gokul'< 'gopal')
+//comparation of different type
+// console.log('1'< 5);
+// console.log(true ==0);
+
+//Equality Operator
+//Strict Equality Operator
+// console.log(1===1);
+// console.log('1'===1);
+//Lose Equality Operator
+// console.log(1==1);
+// console.log('1'==1);
+// console.log(true==1);
+
+//Ternary Operator
+// let age = 16;
+// let type = age > 18 ? "Adult" : "child";
+// console.log(type)
+//or 
+// if(age>18){
+// console.log("adult");
+// }else
+// {console.log("child");
+// }
+    
