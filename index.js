@@ -71,10 +71,21 @@
 // }
     
 // Logical Operators
-// AND (&&)
-console.log(true && true);
-// OR (||)
-console.log(false || false);
+// AND (&&)- 1 1 = 1
+// console.log(true && true);
+// OR (||)- 0 0 = 0
+// console.log(false || false);
 // NOT (!)
-console.log(!false);
-console.log(!true);
+// console.log(!false);
+// console.log(!true);
+// let income=true;
+// let CIBILscore=true;
+// let eligibility=income && CIBILscore;
+// let applicationStatus=!eligibility;
+// console.log("Loan Status : " + eligibility);
+// console.log("Application Status : " + applicationStatus);
+
+
+//Operator Precedence
+let x=(2+5)*10;
+console.log(x)
