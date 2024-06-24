@@ -70,3 +70,11 @@
 // {console.log("child");
 // }
     
+// Logical Operators
+// AND (&&)
+console.log(true && true);
+// OR (||)
+console.log(false || false);
+// NOT (!)
+console.log(!false);
+console.log(!true);
